@@ -1,0 +1,6 @@
+# Project 4: MongoDB
+First, in Mongo shell, cd to the folder of these .js files.
+Then use "load(<filename>)" to run the scripts.
+e.g. load("Question1.js")
+The inserts, updates and deletions will be automatically implemented.
+Results of queries will be printed out.
